@@ -1,4 +1,4 @@
-# CineMatch — Personalized Movie Recommendation System
+# TONIGHTSHOW — Personalized Movie Recommendation System
 
 A small Streamlit demonstration of user-based collaborative filtering using cosine similarity.
 
